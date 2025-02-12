@@ -32,7 +32,7 @@ function NavBar({ setnotOn }) {
         <Navbar bg="light" expand="lg" id='nav'>
             <Container style={{ width: '90%' }}>
                 <Navbar.Brand><img src={logo} alt={"logo"} /></Navbar.Brand>
-                <Navbar.Brand href="/" style={{ fontSize: "35px", fontWeight: "bolder", color: "#2c8894" }}>RBH Bank</Navbar.Brand>
+                <Navbar.Brand href="/" style={{ fontSize: "35px", fontWeight: "bolder", color: "#2c8894" }}>NeoWolf Bank</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="justify-content-end " style={{ display: "flex", justifyContent: 'flex-end', alignItems: "center", width: "100%", fontSize: "20px", marginRight: "20px" }}>

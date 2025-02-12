@@ -53,7 +53,7 @@ function HomeBody({ notOn, setnotOn }) {
                             Start your Digital Savings Account today with India’s most sincere digital bank!
                             <br />
                             <br />
-                            RBH Bank offers a Digital Savings Account with no account opening charges or minimum balance requirements. Keep upto Rs. 2 lac of deposits and enjoy benefits.
+                            NeoWolf Bank offers a Digital Savings Account with no account opening charges or minimum balance requirements. Keep upto Rs. 2 lac of deposits and enjoy benefits.
                         </p>
                     </div>
                     <div style={{ marginRight: "100px" }}>

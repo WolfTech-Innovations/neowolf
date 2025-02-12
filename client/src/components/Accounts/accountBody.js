@@ -49,13 +49,13 @@ const AccountBody = (props) => {
             </div>
             <div className='secondCol-textContent'>
               <div>
-                In the Internet age, almost everything is digital, including your bank account. RBH Bank’s Digital {props.accountType} is the best thing to happen to customers, and it has made banking easier than ever.
+                In the Internet age, almost everything is digital, including your bank account. NeoWolf Bank’s Digital {props.accountType} is the best thing to happen to customers, and it has made banking easier than ever.
                 <br />
                 <br />
                 All you need to open a Digital {props.accountType} is your Aadhaar number and PAN number. Don’t hesitate any more: apply for Digital {props.accountType} now.
                 <br />
                 <br />
-                Here’s what you get with RBH Bank’s Digital {words[0]} Bank Account:
+                Here’s what you get with NeoWolf Bank’s Digital {words[0]} Bank Account:
                 <ul>
                   <li>No charges on non-maintenance of balances*</li>
                   <li>Instant and paperless</li>

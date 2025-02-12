@@ -593,7 +593,7 @@ function Step1({ data, setmsg, setText }) {
                             KYC is a standard due diligence process used by financial institutions and other financial services companies to assess and monitor customer risk and verify a customer’s identity. KYC ensures that a customer is who they say they are.
                             <br />
                             <br />
-                            Here, at RBH Bank, we provide a smooth process for digital KYC.
+                            Here, at NeoWolf Bank, we provide a smooth process for digital KYC.
                             NO need to visit any branch physically. Get everything done through few clicks only.
                             <br />
                             <br />
